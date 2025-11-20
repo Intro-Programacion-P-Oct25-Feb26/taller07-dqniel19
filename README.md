@@ -1,6 +1,7 @@
 # Taller07
 ## Parte 1
-
+DANIEL VARGAS
+ANTHNOY GODOY 
 ### Taller 7 (Laboratorio): Construcción de programas usando estructuras de control repetitivas (while)
 * Por cada problemática crear un proyecto en Netbeans.
 * Cada proyecto de Netbeans debe ir en la carpeta **problematicas**
