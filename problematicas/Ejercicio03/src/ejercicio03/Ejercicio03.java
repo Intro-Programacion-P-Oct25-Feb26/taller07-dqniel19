@@ -25,13 +25,13 @@ public class Ejercicio03 {
         int suma = 0;
         int valor;
         
-        while (contador <= 6) {
+        while (contador <= 5) {
             contador = contador + 1;
             valor = (int) (Math.pow(contador, 2) + 1);
             
-            mensaje = String.format("%s%s\n", mensaje,valor);
+            mensaje = String.format("%s%d\n", mensaje,valor);
         }
-        System.out.printf("%s/n", mensaje);
+        System.out.printf("%s\n", mensaje);
     }
     
 }
